@@ -1,4 +1,7 @@
-# Information for analytical facilities
+---
+permalink: /analytical-facilities/
+title: "Information for analytical facilities"
+---
 
 GeoCoLab are looking for expressions of interest from analytical facilities that can partner with GeoCoLab. We are hoping to have a network of facilities who agree to partner withGeoCoLab in principle by the end of the hackathon (15th October 2021) so we can demonstrate the feasibility of the project. Expressions of interest at this stage do not commit facilities if GeoCoLab is funded. If you would like to submit an expression of interest, please complete this form {hyperlink to form}
 
