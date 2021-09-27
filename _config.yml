@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: GeoCoLab
-email:
+email: GeoCoLab.App@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Digital technologies to open up environmental sciences
-twitter_username: username
-github_username: username
+# twitter_username: username
+github_username: GeoCoLab
 minimal_mistakes_skin: default
 search: true
 
