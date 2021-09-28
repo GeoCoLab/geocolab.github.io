@@ -1,6 +1,7 @@
 ---
 permalink: /home/
 title: "Home"
+author_profile: false
 ---
 
 GeoCoLab will aim to evidence and address the hypothesis that access to analytical facilities by underserved researchers is a key issue that leads to a deep inequality in environmental research and determines who is able to generate environmental and geoscience knowledge.
