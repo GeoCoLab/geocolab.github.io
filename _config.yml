@@ -17,7 +17,7 @@ title: GeoCoLab
 email: GeoCoLab.App@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Digital technologies to open up environmental sciences
-# twitter_username: username
+twitter_username: GeoCoLab
 github_username: GeoCoLab
 minimal_mistakes_skin: dirt
 search: true
@@ -29,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /blog/page:num/
+paginate_path: /posts/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -64,9 +64,9 @@ author:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/GeoCoLab"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GeoCoLab/"
@@ -76,9 +76,9 @@ author:
 
 footer:
   links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/GeoCoLab"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GeoCoLab/"
