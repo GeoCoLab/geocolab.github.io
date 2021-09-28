@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: true
 ---
 
 GeoCoLab is responding to the NERC Digital Technologies Digital Sprint. 
