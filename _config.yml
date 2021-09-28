@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Digital technologies to open up environmental sciences
 # twitter_username: username
 github_username: GeoCoLab
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dirt
 search: true
 logo: "/assets/images/Logo_square-01.png"
 
