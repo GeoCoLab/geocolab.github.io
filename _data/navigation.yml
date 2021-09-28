@@ -1,7 +1,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Posts"
-    url: /posts/
-  - title: "Labs"
+  - title: "Analytical Facilities"
     url: /analytical-facilities/
+  - title: "Blog"
+    url: /blog/
+  
