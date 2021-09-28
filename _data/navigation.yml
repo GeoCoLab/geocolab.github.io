@@ -3,6 +3,6 @@ main:
     url: /about/
   - title: "Analytical Facilities"
     url: /analytical-facilities/
-  - title: "Blog"
-    url: /blog/
+  - title: "Posts"
+    url: /posts/
   
