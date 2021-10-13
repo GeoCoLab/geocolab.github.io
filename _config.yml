@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "GeoCoLab"
   avatar : "/assets/images/Logo_round-01.png"
-  bio    : "An awesome idea"
+  bio    : "Matching access to analytical facilities with underserved researchers"
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
