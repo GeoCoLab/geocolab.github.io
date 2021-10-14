@@ -27,3 +27,12 @@ Edward Lewis:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/koalageo"
+      
+Ginger Butcher:
+  name        : "Ginger Butcher"
+  bio         : "Software Engineer at the Natural History Museum"
+  avatar      : "/assets/images/gbutcher.jpg"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github-square"
+      url: "https://github.com/alycejenni"
