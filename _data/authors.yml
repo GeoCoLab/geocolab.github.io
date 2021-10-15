@@ -42,3 +42,18 @@ Ginger Butcher:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/assortedginger"
+      
+Dr Elliot Carter:
+  name        : "Dr Elliot Carter"
+  bio         : "Geochemist / Petrologist at Trinity College Dublin | Irish Research Council GOI Fellow | Magma, volatile and olivine enthusiast | He/him"
+  avatar      : "/assets/images/Elliot.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:elcarter@tcd.ie"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.tcd.ie/Geology/people/elliotc/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/elliotjcarter"
