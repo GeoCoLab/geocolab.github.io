@@ -45,7 +45,7 @@ Ginger Butcher:
       
 Dr Elliot Carter:
   name        : "Dr Elliot Carter"
-  bio         : "Geochemist / Petrologist at Trinity College Dublin | Irish Research Council GOI Fellow | Magma, volatile and olivine enthusiast | He/him"
+  bio         : "Geochemist / Petrologist at Trinity College Dublin, Magma, volatile and olivine enthusiast, He/him"
   avatar      : "/assets/images/Elliot.jpg"
   links:
     - label: "Email"
